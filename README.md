@@ -4,4 +4,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yunglocokid&show_icons=true&locale=en" alt="tomitokko" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunglocokid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunglocokid&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
