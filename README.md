@@ -1,15 +1,12 @@
-
-
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/Wfxec6nnb5d00BdSe2/giphy.gif"/>
+    <a href="https://yunglocokid.github.io" title="My Site">
+         <img src="https://media.giphy.com/media/Wfxec6nnb5d00BdSe2/giphy.gif"/>
+    </a>
 </div>
-
-
 
 <center>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 </center>
-
 
 ---
 
