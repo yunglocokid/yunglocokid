@@ -6,13 +6,13 @@
 
 
 <div align="center">
-    <a href="" alt="Telegram" width="100">
+    <a href="https://t.me/yunglocokid" target="_blank" alt="Telegram" width="100">
         <img  width="100" src="https://media.giphy.com/media/dS5fbek1nylmiqqx6Z/giphy.gif">    
     <a/>
-    <a href="Site" width="100">
+    <a href="https://yunglocokid.github.io" target="_blank"  alt="My site" width="100">
         <img  width="100" src="https://media.giphy.com/media/CVG7QyC4F4fcJNRGrR/giphy.gif">    
     <a/>
-    <a href="VK" width="100">
+    <a href="https://vk.com/yunglocokid" target="_blank" alt="Vk" width="100">
         <img  width="100" src="https://media.giphy.com/media/F1SI37eCvyDwGUqXc8/giphy.gif">    
     <a/>
             <br>
