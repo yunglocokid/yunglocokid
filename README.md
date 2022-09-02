@@ -1,7 +1,5 @@
 <div id="header" align="center">
-    <a href="https://yunglocokid.github.io" title="My Site" target="_blank">
-         <img src="https://media.giphy.com/media/Wfxec6nnb5d00BdSe2/giphy.gif"/>
-    </a>
+   <img src="https://media.giphy.com/media/Wfxec6nnb5d00BdSe2/giphy.gif"/>
 </div>
 
 
