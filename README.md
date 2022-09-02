@@ -37,7 +37,6 @@
 
 <div>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yunglocokid&show_icons=true&locale=en&theme=radical" alt="tomitokko" height="165" />        </p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunglocokid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
