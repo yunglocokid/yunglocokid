@@ -4,6 +4,21 @@
     </a>
 </div>
 
+
+<div align="center">
+    <a href="" alt="Telegram" width="100">
+        <img  width="100" src="https://media.giphy.com/media/dS5fbek1nylmiqqx6Z/giphy.gif">    
+    <a/>
+    <a href="Site" width="100">
+        <img  width="100" src="https://media.giphy.com/media/CVG7QyC4F4fcJNRGrR/giphy.gif">    
+    <a/>
+    <a href="VK" width="100">
+        <img  width="100" src="https://media.giphy.com/media/F1SI37eCvyDwGUqXc8/giphy.gif">    
+    <a/>
+            <br>
+            <br>
+</div>
+
 <center>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 </center>
