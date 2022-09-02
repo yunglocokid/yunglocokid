@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
