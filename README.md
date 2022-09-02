@@ -3,7 +3,10 @@
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+
+<center>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+</center>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yunglocokid&show_icons=true&locale=en&theme=radical" alt="tomitokko" /></p>
 
