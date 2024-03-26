@@ -7,7 +7,7 @@
     <a href="https://t.me/yunglocokid" target="_blank" alt="Telegram" width="100">
         <img  width="100" src="https://media.giphy.com/media/dS5fbek1nylmiqqx6Z/giphy.gif">    
     <a/>
-    <a href="https://yunglocokid.github.io" target="_blank"  alt="My site" width="100">
+    <a href="https://yunglocokid.ru" target="_blank"  alt="My site" width="100">
         <img  width="100" src="https://media.giphy.com/media/CVG7QyC4F4fcJNRGrR/giphy.gif">    
     <a/>
             <br>
