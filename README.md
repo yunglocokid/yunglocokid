@@ -7,7 +7,7 @@
 <!--     <a/> -->
 <!-- </div> -->
 
-### :hammer_and_wrench: Languages and Tools:
+## :hammer_and_wrench: Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
@@ -16,9 +16,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="graphql" width="40" height="40"/>&nbsp;
 
-### :dizzy: Stats:
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunglocokid&theme=transparent)
+## :dizzy: Stats:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yunglocokid&theme=transparent)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunglocokid&theme=transparent)
 
 <div align="center"> 
    <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="yunglocokid" /> 
