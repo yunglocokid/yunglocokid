@@ -1,8 +1,3 @@
-<div id="header" align="center">
-   <img style="pointer-events: none" src="https://media.giphy.com/media/Wfxec6nnb5d00BdSe2/giphy.gif"/>
-</div>
-
-
 <div align="center">
     <a href="https://t.me/yunglocokid" target="_blank" alt="Telegram" width="100">
         <img  width="100" src="https://media.giphy.com/media/dS5fbek1nylmiqqx6Z/giphy.gif">    
@@ -13,10 +8,9 @@
 </div>
 
 <center>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="yunglocokid" /> </p>
 </center>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -35,7 +29,6 @@
 <div>
    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunglocokid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 
 ---
