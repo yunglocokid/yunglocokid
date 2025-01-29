@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<!--    <img style="pointer-events: none" src="https://media.giphy.com/media/Wfxec6nnb5d00BdSe2/giphy.gif"/> -->
+   <img style="pointer-events: none" src="https://media.giphy.com/media/Wfxec6nnb5d00BdSe2/giphy.gif"/>
 </div>
 
 
@@ -10,16 +10,12 @@
     <a href="https://yunglocokid.ru" target="_blank"  alt="My site" width="100">
         <img  width="100" src="https://media.giphy.com/media/CVG7QyC4F4fcJNRGrR/giphy.gif">    
     <a/>
-            <br>
-            <br>
 </div>
 
 <center>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 </center>
-
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -31,14 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
 </div>
-
 ---
-
 <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yunglocokid&show_icons=true&locale=en&theme=radical" alt="tomitokko" width="440" height="165" />        </p>
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunglocokid&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
-
 ---
