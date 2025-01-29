@@ -20,5 +20,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunglocokid&theme=transparent)
 
 <div align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=yunglocokid&label=Profile%20views&color=0e75b6&style=flat" alt="yunglocokid" /> 
+   <img src="https://komarev.com/ghpvc/?username=yunglocokid&color=3178C6" alt="yunglocokid" /> 
 </div>
